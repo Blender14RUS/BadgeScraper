@@ -7,6 +7,7 @@
     "license": "GPL-3.0",
     "repository": "SpartanC001/BadgeScraper",
     "dependencies": {
-        "async": "*"
+        "async": "*",
+        "npm": "^6.4.1"
     }
 }
